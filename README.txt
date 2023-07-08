@@ -1,4 +1,3 @@
-# DBMS_Mini_Project
 
 How to run the PANDEMIC PRO Using PHP and MySQL
 -> Download the zip file
