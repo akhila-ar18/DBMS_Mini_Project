@@ -1,7 +1,6 @@
 # DBMS_Mini_Project
 
 How to run the PANDEMIC PRO Using PHP and MySQL
-
 -> Download the zip file
 -> Extract the file and copy covid-tms folder
 -> Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
